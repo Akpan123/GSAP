@@ -1,8 +1,8 @@
 <div >
  <br />
   <div align="center" >
-   <a href="https://youtu.be/pqYxZ8jd768" target="_blank">
-     <img  src="public/images/Final.png" style="border-radius:10px;"  alt="Project Banner">
+<!--    <a href="https://youtu.be/pqYxZ8jd768" target="_blank"> -->
+     <img  src="public/images/DemoSc" style="border-radius:10px;"  alt="Project Banner">
    </a></div>
  <br />
  <br />
@@ -14,11 +14,11 @@
 
  </div>
 
- <h3 style="font-weight:700;font-size:30px;">AWWWARDS Site of the Day Website</h3>
+ <h3 style="font-weight:700;font-size:30px;">AWWWARDS Site/h3>
 
   <div >
-    Ready to build a website that has won an Awwwards Site of the Day?
-    This tutorial guides you through creating a stunning, interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
+    Build a website that has won an Awwwards Site of the Day?
+    This Project guides through creating a stunning, interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
    </div>
 </div>
 
@@ -44,7 +44,7 @@ Dive into creating a cutting-edge web experience designed for Awwwards recogniti
 
 ## Features
 
-In this course, You’ll learn how to:
+In this Project, I learned how to:
 
 - ✨ Parallax Like a Pro
 - ⚡️ Master Clip-Path Magic
@@ -58,7 +58,7 @@ In this course, You’ll learn how to:
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/FullStackEmpire/gsap-awwwards-website.git](https://github.com/FullStackEmpire/gsap-awwwards-website.git)
+git clone [ https://github.com/Akpan123/GSAP.git]( https://github.com/Akpan123/GSAP.git )
 
 # 2. Install dependencies
 npm install
@@ -470,9 +470,3 @@ export { flavorlists, nutrientLists, cards };
 - 🎥 Videos: [`/public/videos`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/videos)
 - 📚 Fonts: [`/public/fonts`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/fonts)
 - 🖼️ Images: [`/public/images`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/images)
-
-## Community
-
-Join the community and connect with other developers!
-
-[![Discord](https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/cbtfr4BHF9)
